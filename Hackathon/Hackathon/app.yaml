@@ -1,0 +1,8 @@
+command: 
+  - python
+  - app.py
+env:
+  - name: DATABRICKS_HOST
+    value: "your_host_url"
+  - name: DATABRICKS_TOKEN
+    value: "your_token"

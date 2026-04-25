@@ -1,0 +1,5 @@
+gradio
+databricks-vectorsearch
+requests
+sentence-transformers==3.0.1
+huggingface_hub==0.23.4
